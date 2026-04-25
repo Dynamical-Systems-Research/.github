@@ -1,4 +1,3 @@
-# Dynamical Systems
 <img width="1584" height="396" alt="banner_v2_linkedin_1584x396" src="https://github.com/user-attachments/assets/90381a1f-fc79-480f-9b97-20443cf4a4e1" />
 
 ***
