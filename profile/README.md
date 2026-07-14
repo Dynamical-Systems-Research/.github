@@ -2,21 +2,20 @@
 
 ***
 
-<p align="center">  
+<p align="center">
   <strong>Making science programmable.</strong>
 </p>
 
+Dynamical builds long-horizon evaluations and verification systems for agents making decisions in physical science.
 
-Dynamical builds infrastructure for physical R&D teams that need to know what to test next, why, and what evidence supports the decision.
-
-Our core product is **Reactor**: an open-source runtime for scientific work. Reactor turns messy validation objectives into replayable campaigns with candidate branches, verifier results, explicit decisions, physical-test packets, and audit-ready replay.
-
-We focus on the layer between AI reasoning and physical execution. The control plane where teams decide which experiment, coupon, build, assay, or validation run deserves scarce physical spend.
+We ground them in real experimental records, instrument artifacts, and expert corrections, then turn those records into structured experience that models can replay and learn from. Across candidate generation, simulation, experimental execution, measurement, and qualification, our evaluations and verifiers make each encounter with reality usable for the next decision.
 
 ## Read
 
-- [The Control Plane for Physical R&D](https://dynamicalsystems.ai/blog/reactor-case-study)
-- [Scaling Test-Time Verification for Novel Materials](https://dynamicalsystems.ai/blog/scaling-test-time-verification)
+- [Proprio: Simulator-Verified Skill Acquisition for Scientific Instruments](https://dynamicalsystems.ai/blog/simulator-verified-skill-acquisition)
+- [The Future Is Thousands of Labs](https://dynamicalsystems.ai/thesis)
+- [Can a Self-Driving-Lab Agent Tell When the Evidence Is Enough?](https://dynamicalsystems.ai/blog/benchmarking-self-driving-lab-agents)
 - [The Missing Layer in Autonomous Science](https://dynamicalsystems.ai/blog/training-scientific-judgment)
+- [Scaling Test-Time Verification for Novel Materials](https://dynamicalsystems.ai/blog/scaling-test-time-verification)
 
 [Website](https://dynamicalsystems.ai) · [Contact](mailto:info@dynamicalsystems.ai)
