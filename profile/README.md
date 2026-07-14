@@ -8,8 +8,6 @@
 
 Dynamical builds long-horizon evaluations and verification systems for agents making decisions in physical science.
 
-We ground them in real experimental records, instrument artifacts, and expert corrections, then turn those records into structured experience that models can replay and learn from. Across candidate generation, simulation, experimental execution, measurement, and qualification, our evaluations and verifiers make each encounter with reality usable for the next decision.
-
 ## Read
 
 - [Proprio: Simulator-Verified Skill Acquisition for Scientific Instruments](https://dynamicalsystems.ai/blog/simulator-verified-skill-acquisition)
